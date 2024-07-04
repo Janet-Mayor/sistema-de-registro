@@ -7,3 +7,5 @@ pm install
 Para ejecutar el sistema, debes poner:
 
 ```nmp install react```
+
+sistema de reguistro dos
